@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Natashaaaaaa
+- 👋 Hi, I’m @Natasha
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning HTML and CSS on freecodecamp.org. I already finish the first course for Responsive Web Deigner 🥰
 - 💞️ I’m looking to collaborate on ...
